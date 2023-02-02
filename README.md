@@ -24,9 +24,9 @@
 ### 笔记地址：https://github.com/empireofyt/MyNote/tree/main/web%20service
 
 ### 学习资料： 
-  Linux下C++轻量级Web服务器学习    https://github.com/qinguoyi/TinyWebServer
-  《TCP/IP网络编程》(韩-尹圣雨)学习笔记     https://github.com/riba2534/TCP-IP-NetworkNote
-  牛客网项目     https://www.nowcoder.com/profile/592962990/courses
+  1. Linux下C++轻量级Web服务器学习    https://github.com/qinguoyi/TinyWebServer
+  2. 《TCP/IP网络编程》(韩-尹圣雨)学习笔记     https://github.com/riba2534/TCP-IP-NetworkNote
+  3. 牛客网项目     https://www.nowcoder.com/profile/592962990/courses
   
 
 
